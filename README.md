@@ -4,7 +4,7 @@ After nearly two years working as an apprentice baker, I transitioned into softw
 
 My previous background taught me strict process discipline, reliability under pressure, and attention to detail—habits.
 
-I'm looking for a **internship starting in March 2027** (.NET Fullstack / Backend Development or DevSecOps).
+I'm looking for an **internship starting in March 2027** (.NET Fullstack / Backend Development or DevSecOps).
 
 ---
 
@@ -16,7 +16,8 @@ I'm looking for a **internship starting in March 2027** (.NET Fullstack / Backen
 ---
 
 #### Featured Projects
-* *Coming soon.*
+* **[Fournil](./fournil)** — C# / .NET 10 console application for bakery catalog and inventory management (OOP architecture, input validation, JSON persistence).
+* **[Heroes-Vs-Monsters](./Heroes-Vs-Monsters)** — Turn-based C# console RPG built to practice Object-Oriented Programming and interfaces.
 
 ---
 
