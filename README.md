@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Jossua Derval
 
-<!--
-**jossua-derval/jossua-derval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After nearly two years working as an apprentice baker, I transitioned into software development. I'm currently training as a **DevSecOps & .NET** developer, building fullstack applications with **C# / ASP.NET Core**, **Angular**, and **SQL Server**, while learning to automate deployments and secure cloud environments on **Microsoft Azure**.
 
-Here are some ideas to get you started:
+My previous background taught me strict process discipline, reliability under pressure, and attention to detail—habits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm looking for a **internship starting in March 2027** (.NET Fullstack / Backend Development or DevSecOps).
+
+---
+
+#### Technical Stack
+* **Backend & Data:** C#, .NET, OOP, LINQ, SQL, Microsoft SQL Server *(currently adding Entity Framework Core & ASP.NET Core REST APIs)*
+* **Frontend:** HTML5, CSS3, JavaScript, Angular
+* **Cloud, DevOps & Security:** Git, GitHub, Visual Studio *(upcoming modules: Microsoft Azure, Containerization, Azure DevOps CI/CD, .NET AppSec)*
+
+---
+
+#### Featured Projects
+* *Coming soon.*
+
+---
+
+#### Contact
+* **LinkedIn:** [linkedin.com/in/jossua-derval-822b23383](https://www.linkedin.com/in/jossua-derval-822b23383/)
+* **Location:** Hainaut, Belgium
